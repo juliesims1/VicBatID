@@ -18,6 +18,7 @@ FILENAME <- allfiles[batno]
 
 # Alternative
 filename<-file.choose()
+
 # Read the file into BUFFER
 
 FILENAME = "6B152023.31#"
